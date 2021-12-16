@@ -1,0 +1,11 @@
+.slidev-layout:before {
+  content: "";
+  height: 100%;
+  width: 8px;
+
+  background-color: rgb(204, 50, 170);
+
+  position: absolute;
+  top: 0;
+  left: 0;
+}
