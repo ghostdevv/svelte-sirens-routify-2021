@@ -1,4 +1,6 @@
 ---
+background: '/routify-logo-bg.png'
+
 fonts:
   - "Inter"
   - "Overpass"
@@ -6,4 +8,4 @@ fonts:
 
 # Routify & Svelte Kit
 
-Exploring the beauty of Routify inside of Svelte Kit
+Exploring Routify inside of Svelte Kit
